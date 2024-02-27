@@ -391,8 +391,7 @@ h3 {
   align-items: baseline;
 }
 .footer-left-container {
-  margin-right: auto;
-  margin-left: 156px;
+  margin-right: 120px;
 }
 .logo-footer {
   margin-bottom: 16px;
@@ -411,7 +410,6 @@ h3 {
 }
 .footer-right-container {
   flex-direction: column;
-  margin-right: 692px;
 }
 .footer-right-text {
   font-weight: 500;
